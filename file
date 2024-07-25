@@ -1,0 +1,12 @@
+
+
+origin ----> https://github.com/yogeshtakeo/Durgaandvikas.git
+git remote add origin https://github.com/yogeshtakeo/Durgaandvikas.git
+
+git remote add <name> <link>
+
+permission,
+name, sender receipiant
+address, sender receipiant
+
+
